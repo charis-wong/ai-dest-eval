@@ -19,7 +19,7 @@ folder_name <- paste0(sr, '/', srp, '/')
 
 #1.1 original review -----
 
-#original review studies clean using 'clean_SR2_original_studies.R'. Load output from that script 
+#original review studies cleaned using 'clean_SR2_original_studies.R'. Load output from that script; duplicates removed, doi format cleaned. 
 
 original_search <- read.csv('output/SR2/original/cleaned_SR2_original_studies.csv')
 

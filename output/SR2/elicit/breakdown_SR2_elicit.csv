@@ -1,0 +1,10 @@
+"label","count"
+"elicit_exclude",62
+"elicit_include",279
+"original_ca_exclude",76
+"original_ca_exclude, elicit_include",41
+"original_data_include",84
+"original_data_include, elicit_include",58
+"original_ft_exclude",260
+"original_ft_exclude, elicit_exclude",3
+"original_ft_exclude, elicit_include",47
