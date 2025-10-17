@@ -14,7 +14,7 @@ folder_name <- paste0(sr, '/', srp, '/')
 original_search <- read.csv('data/SR1/original/all_studies_0224.csv')
 original_Tiab_include <- read.csv('data/SR1/original/screen_include_0224.csv')
 original_ft_exclude <- read.csv('data/SR1/original/screened_excluded_0224.csv')
-original_ft_include <- original_Tiab_include%>%filter(!Doi %in% original_ft_exclude$Doi)
+original_ft_include <- original_Tiab_include%>%filter(!StudyId %in% original_ft_exclude$StudyId)
 nk <- read.csv('data/SR1/NK/SR1_NK_all_screening.csv')%>%
   mutate(record_id = paste0("sr1_nk_", row_number()))
 nk_ft_exclude <- filter(nk, grepl('Excluded', Full.Text.Screening.Status))

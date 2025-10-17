@@ -16,7 +16,7 @@ folder_name <- paste0(sr, '/', srp, '/')
 original_search <- read.csv('data/SR1/original/all_studies_0224.csv')
 original_Tiab_include <- read.csv('data/SR1/original/screen_include_0224.csv')
 original_ft_exclude <- read.csv('data/SR1/original/screened_excluded_0224.csv')
-original_ft_include <- original_Tiab_include%>%filter(!Doi %in% original_ft_exclude$Doi)
+original_ft_include <- original_Tiab_include%>%filter(!StudyId %in% original_ft_exclude$StudyId)
 elicit <- read.csv("data/SR1/elicit/sr1_elicit_screen_results.csv")
 elicit <- elicit %>% mutate(record_id = paste0("sr1_elicit_", row_number()),
                             label = ifelse(Screening.judgement == "Include", 'elicit_include', 'elicit_exclude')
