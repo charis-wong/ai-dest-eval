@@ -1,0 +1,13 @@
+"label","count"
+"nk_robot_exclude",265
+"nk_robot_exclude,nk_robot_include",1
+"nk_robot_include",337
+"original_ca_exclude",52
+"original_ca_exclude,nk_robot_exclude",3
+"original_ca_exclude,nk_robot_include",62
+"original_data_include",35
+"original_data_include,nk_robot_exclude",2
+"original_data_include,nk_robot_include",105
+"original_ft_exclude",137
+"original_ft_exclude,nk_robot_exclude",26
+"original_ft_exclude,nk_robot_include",147

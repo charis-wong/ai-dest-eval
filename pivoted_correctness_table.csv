@@ -1,0 +1,7 @@
+"Evaluation","Percentage_Match_Comparison","Percentage_Match_Intervention","Percentage_Match_Outcome","Percentage_Match_Population","Percentage_Match_Method","Percentage_Match_Result","Number_of_Comparisons_Comparison","Number_of_Comparisons_Intervention","Number_of_Comparisons_Outcome","Number_of_Comparisons_Population","Number_of_Comparisons_Method","Number_of_Comparisons_Result"
+"SR1_Elicit",66.7,55.6,100,60,NA,NA,9,9,6,10,NA,NA
+"SR1_NK",66.7,33.3,33.3,53.3,NA,NA,15,15,15,15,NA,NA
+"SR2_Elicit",60.3,85.5,68.9,NA,NA,NA,58,117,212,NA,NA,NA
+"SR2_NK",NA,85.8,64.6,NA,NA,NA,NA,212,469,NA,NA,NA
+"SR3_Elicit",100,66.7,66.7,50,50,57.1,3,3,3,6,26,7
+"SR3_NK",33.3,91.7,83.3,41.7,26.5,47.1,12,12,12,24,83,17

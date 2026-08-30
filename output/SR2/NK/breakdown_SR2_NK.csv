@@ -1,0 +1,17 @@
+"label","count"
+"nk_ft_exclude",188
+"nk_ft_exclude,nk_tiab_exclude",1
+"nk_ft_include",52
+"nk_tiab_exclude",414
+"original_ca_exclude",38
+"original_ca_exclude, nk_ft_exclude",53
+"original_ca_exclude, nk_ft_include",19
+"original_ca_exclude, nk_tiab_exclude",7
+"original_data_include",24
+"original_data_include, nk_ft_exclude",14
+"original_data_include, nk_ft_include",99
+"original_data_include, nk_tiab_exclude",5
+"original_ft_exclude",111
+"original_ft_exclude, nk_ft_exclude",116
+"original_ft_exclude, nk_ft_include",14
+"original_ft_exclude, nk_tiab_exclude",69

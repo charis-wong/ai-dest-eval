@@ -1,0 +1,49 @@
+﻿eval,label,count
+SR1_Elicit,high-high,3
+SR1_Elicit,low-low,4
+SR1_Elicit,unclear-high,12
+SR1_Elicit,unclear-low,17
+SR1_Elicit,unclear-unclear,24
+SR2_Elicit,maybe-maybe,10
+SR2_Elicit,maybe-no,2
+SR2_Elicit,maybe-yes,10
+SR2_Elicit,no -no,1
+SR2_Elicit,no -yes,1
+SR2_Elicit,no-maybe,4
+SR2_Elicit,no-no,3
+SR2_Elicit,no-yes,12
+SR2_Elicit,yes-maybe,114
+SR2_Elicit,yes-no,51
+SR2_Elicit,yes-no ,2
+SR2_Elicit,yes-no  ,2
+SR2_Elicit,yes-yes,374
+SR2_NK,no -yes,1
+SR2_NK,no-n/a,1
+SR2_NK,no-no,34
+SR2_NK,no-unclear,2
+SR2_NK,no-yes,12
+SR2_NK,unclear-unclear,7
+SR2_NK,unclear-yes,7
+SR2_NK,yes-n/a,150
+SR2_NK,yes-no,78
+SR2_NK,yes-unclear,104
+SR2_NK,yes-yes,666
+SR2_NK,unclear-no,1
+SR2_NK,unclear-n/a,16
+SR2_NK,unclear -n/a,1
+SR3_Elicit,high-low,1
+SR3_Elicit,high-some,1
+SR3_Elicit,low-high,2
+SR3_Elicit,low-low,5
+SR3_Elicit,low-some,3
+SR3_Elicit,some-high,1
+SR3_Elicit,some-low,4
+SR3_Elicit,some-some,1
+SR3_NK,high-low,4
+SR3_NK,high-some,12
+SR3_NK,low-high,1
+SR3_NK,low-low,18
+SR3_NK,low-some,11
+SR3_NK,some-high,1
+SR3_NK,some-low,1
+SR3_NK,some-some,9
