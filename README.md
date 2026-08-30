@@ -14,3 +14,5 @@ SR3 Cochrane review - “Community care navigation intervention for people who a
 
 The systematic review platforms evaluated are Elicit.AI, Nested Knowledge and Scispace. 
 
+Scispace evaluation was terminated in October 2025 due to critical data export issues from Scispace that could not be resolved. 
+
